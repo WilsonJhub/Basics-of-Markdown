@@ -1,4 +1,4 @@
-# Beginning-of-Markdown
+# Basics-of-Markdown
 
 ## Heading
 The heading is the title and topic of discussion. There are a few ways that the syntax for the heading can be used.   
