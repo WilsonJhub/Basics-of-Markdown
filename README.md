@@ -12,3 +12,7 @@ See below for few examples:
 - ***Goodbye***
 
 #### ***EMOJICODE*** 😉
+
+Emojis has evolved into another language these days. So, naturally we need to learn how to add them to our lines of coding. All we need to do is type a, ":". Any letter after the colon will populate your screen with the available emojis. Make sure to only use lowercase letters when searching through the emojis; uppercase does not work. 
+
+Example: 😃 🙂
