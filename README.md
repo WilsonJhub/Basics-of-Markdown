@@ -6,10 +6,10 @@ One "#" symbol labels that line of code as a heading. The amount "#" at the begi
 For example: one "#", is your first heading. Two "##", is your second heading. And so on.   
 
 ### Bold Letters
-Often times in writing, we need to provide a certain amount of intesity to our words. ***Bolding*** allows us to achieve that emphasis. To bold your letters, you'll need to add "***" in front and behind your word of interest.  
+Often times in writing, we need to provide a certain amount of intesity to our words. **Bolding** allows us to achieve that emphasis. To bold your letters, you'll need to add "***" in front and behind your word of interest.  
 See below for few examples:   
-- ***Hello***
-- ***Goodbye***
+- **Hello**
+- **Goodbye**
 
 #### ***EMOJICODE*** 😉
 
