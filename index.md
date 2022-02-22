@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Basics-of-Markdown
 
-You can use the [editor on GitHub](https://github.com/WilsonJhub/Basics-of-Markdown/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Heading
+The heading is the title and topic of discussion. There are a few ways that the syntax for the heading can be used.   
+One "#" symbol labels that line of code as a heading. The amount "#" at the beginning of the line of code is what determines which heading number that seciton is.    
+For example: one "#", is your first heading. Two "##", is your second heading. And so on.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bold Letters
+Often times in writing, we need to provide a certain amount of intesity to our words. ***Bolding*** allows us to achieve that emphasis. To bold your letters, you'll need to add "***" in front and behind your word of interest.  
+See below for few examples:   
+- ***Hello***
+- ***Goodbye***
 
-### Markdown
+#### ***EMOJICODE*** 😉
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Emojis has evolved into another language these days. So, naturally we need to learn how to add them to our lines of coding. All we need to do is type a, ":". Any letter after the colon will populate your screen with the available emojis. Make sure to only use lowercase letters when searching through the emojis; uppercase does not work. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WilsonJhub/Basics-of-Markdown/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Example: 😃 🙂
