@@ -10,3 +10,5 @@ Often times in writing, we need to provide a certain amount of intesity to our w
 See below for few examples:   
 - ***Hello***
 - ***Goodbye***
+
+#### ***EMOJICODE*** 😉
