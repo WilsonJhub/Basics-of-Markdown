@@ -6,4 +6,4 @@ One "#" symbol labels that line of code as a heading. The amount "#" at the begi
 For example: one "#", is your first heading. Two "##", is your second heading. And so on.   
 
 ### Bold Letters
-
+Often times in writing, we need to provide a certain amount of intesity to our words. ***Bolding*** allows us to achieve that emphasis. 
